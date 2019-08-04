@@ -1,0 +1,17 @@
+Folder PATH listing
+Volume serial number is 728D-40AC
+C:.
+ÃÄÄÄinclude
+³   ÃÄÄÄcore
+³   ÃÄÄÄmodule1
+³   ÀÄÄÄmodule2
+ÀÄÄÄsrc
+    ÃÄÄÄcore
+    ³   ÃÄÄÄinclude
+    ³   ÀÄÄÄsrc
+    ÃÄÄÄmodule1
+    ³   ÃÄÄÄinclude
+    ³   ÀÄÄÄsrc
+    ÀÄÄÄmodule2
+        ÃÄÄÄinclude
+        ÀÄÄÄsrc

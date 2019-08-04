@@ -1,0 +1,1 @@
+ it contains the gui, and builds on top of "infrastructure" and "domain"

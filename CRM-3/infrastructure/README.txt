@@ -1,0 +1,1 @@
+ it contains logging, basic data types, and some functions to abstract away platform dependencies

@@ -1,0 +1,1 @@
+This is a simple project structure for C projects. I will try to maintain different project structures that I can use in future.
