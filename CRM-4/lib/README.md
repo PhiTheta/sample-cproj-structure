@@ -1,0 +1,1 @@
+Contains any libraries compiled by the project, third party or any library needed in development. Before deployment, third party libraries gets moved into /usr/local/lib thus leaving the project clean enough to compule on Linux Deployment Servers. Can also be used to test different libraries than standard.
